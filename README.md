@@ -1,0 +1,2 @@
+# TrashClassification
+The package is designed for classifying trash. The main capabilities include collecting images of individual pieces of trash from cameras on the mechanisms, and dividing the trash into two categories: recyclable and organic. From the technical perspective, the first capability mainly uses OpenCV to implement while the other depends on deep learning which is a subclass of machine learning to construct the binary classification model.
